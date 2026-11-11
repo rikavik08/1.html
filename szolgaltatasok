@@ -1,0 +1,30 @@
+<html>
+<head>
+    <title>Monaco gazdasági helyzete - Szolgáltatások</title>
+</head>
+<body bgcolor="#DBECFF">
+
+    <h1 style="text-align:center">Monaco gazdasaga</h1>
+
+    <!-- Navigációs menü -->
+    <p style="text-align:center; font-weight:bold;">
+        <a href="1.html">Főoldal</a> | 
+        <a href="penzugyek.html">Pénzügyek & Ingatlan</a> | 
+        <a href="szolgaltatasok.html">Szolgáltatások</a> | 
+        <a href="statisztika.html">Statisztika</a>
+    </p>
+    <hr>
+
+    <h3>Különböző szolgáltatások</h3>
+    <p>Ez a legnagyobb szektor, amely a milliárdosok és cégek szellemi agytrösztjeként működik. Ügyvédek, adótanácsadók és üzletemberek nyújtanak itt prémium szintű szakmai hátteret. Nem termékeket gyártanak, hanem csúcsminőségű szaktudást értékesítenek.</p>
+
+    <h3>Egyebek</h3>
+    <p>Ez a vegyes kategória biztosítja a luxus metropolisz zökkenőmentes mindennapi működését. Ide tartoznak a luxusüzletek, a high-tech fejlesztések és a precíz közlekedés. Bár kevésbé látványos szektor, stabil alapokat ad az államnak.</p>
+    
+    <br><br>
+    <p style="text-align:center;">
+        <a href="https://azuzlet.hu/az-aranypart-es-a-privatbanki-nagyhatalom/">Ide kattintva egy még részletesebb leírást kapsz ezekről</a>
+    </p>
+
+</body>
+</html>

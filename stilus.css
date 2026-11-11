@@ -1,0 +1,63 @@
+/* 1. Az egész oldal alapbeállításai */
+body {
+    font-family: Arial, sans-serif; /* Letisztult betűtípus */
+    background-color: #f4f4f4;       /* Világosszürke háttér */
+    color: #333333;                 /* Sötétszürke szövegszín */
+    margin: 0;                      /* Kiüríti a felesleges széleket */
+    padding: 0;
+}
+
+/* 2. A főcímsor formázása */
+h1 {
+    color: #0066cc;                 /* Kék színű cím */
+    text-align: center;             /* Középre igazítás */
+    margin-top: 40px;               /* Felső távolság */
+}
+
+/* 3. A bekezdések formázása */
+p {
+    font-size: 18px;                /* Kicsit nagyobb betűméret */
+    line-height: 1.6;               /* Olvashatóbb sorköz */
+    max-width: 800px;               /* Ne nyúljon el túl hosszan a szöveg */
+    margin: 20px auto;              /* Középre helyezi a szövegdobozt */
+    padding: 0 20px;                /* Oldalsó belső távolság */
+}
+
+/* 4. A lábléc (footer) formázása */
+footer {
+    background-color: #222222;       /* Sötét háttér */
+    color: #ffffff;                 /* Fehér szöveg */
+    text-align: center;             /* Középre zárt szöveg */
+    padding: 15px 0;                /* Alsó-felső belső távolság */
+    position: relative;                /* A képernyő aljához rögzíti */
+    left: 0;
+    bottom: 0;
+    width: 100%;                    /* Teljes szélesség */
+}
+h3 {
+    text-align: center; /* Középre igazítás */
+    color: #333333;     /* Opcionális: a szöveg színe */
+    margin-top: 30px;   /* Opcionális: távolság a felette lévő elemtől */
+}
+ol {
+    display: table;
+    margin: 30px auto;
+    text-align: left;
+    padding-left: 0; /* Eltünteti a gyári behúzást */
+}
+
+ol li {
+    background-color: #eae0d5; /* Világos bézs háttér, ami illik a sötétbarnához */
+    color: #3d2b1f;            /* A sötétbarna szövegszíned */
+    margin-bottom: 10px;       /* Távolság a listaelemek között */
+    padding: 12px 20px;        /* Belső hely a szöveg körül */
+    border-radius: 8px;        /* Lekerekített sarkok */
+    list-style-position: inside; /* A szám a háttéren belülre kerül */
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;       
+    color: #3d2b1f;                 /* EZ VÁLTOZTATJA MEG A SZÖVEGET SÖTÉTBARNÁRA */
+    margin: 0;                      
+    padding: 0;
+}

@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Monaco gazdasági helyzete - Pénzügyek & Ingatlan</title>
+</head>
+<body bgcolor="#DBECFF">
+
+    <h1 style="text-align:center">Monaco gazdasaga</h1>
+
+    <!-- Navigációs menü -->
+    <p style="text-align:center; font-weight:bold;">
+        <a href="index.html">Főoldal</a> | 
+        <a href="penzugyek.html">Pénzügyek & Ingatlan</a> | 
+        <a href="szolgaltatasok.html">Szolgáltatások</a> | 
+        <a href="statisztika.html">Statisztika</a>
+    </p>
+    <hr>
+
+    <h3>Bank és pénzügyek</h3>
+    <p>A miniállam a nemzetközi privátbanki szolgáltatások és a vagyonkezelés biztonságos központja. A kedvező adózás és a stabilitás mágnesként vonzza ide a globális tőkét. A pénzügyi szektor a gazdaság legfontosabb, válságálló tartóoszlopa.</p>
+
+    <h3>Ingatlanpiac és építőipar</h3>
+    <p>Mivel a terület rendkívül szűkös, a monacói ingatlanok a világon a legdrágábbak. Az építőipar folyamatosan pörög a tengerből elhódított új luxusnegyedek miatt. Az ágazat fizikailag és gazdaságilag is növeli az országot.</p>
+
+    <img src="D:\Simon Erik XII.B\A2civwionxxb4o3p_1.jpg" alt="Monaco" style="display: block; margin: 20px auto; width: 340px; height: 240px;">
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<html>
+<head>
+    <title>Monaco gazdasági helyzete - Statisztika</title>
+</head>
+<body bgcolor="#DBECFF">
+
+    <h1 style="text-align:center">Monaco gazdasaga</h1>
+
+    <!-- Navigációs menü -->
+    <p style="text-align:center; font-weight:bold;">
+        <a href="index.html">Főoldal</a> | 
+        <a href="penzugyek.html">Pénzügyek & Ingatlan</a> | 
+        <a href="szolgaltatasok.html">Szolgáltatások</a> | 
+        <a href="statisztika.html">Statisztika</a>
+    </p>
+    <hr>
+
+    <h3>Gazdasági megoszlás (GDP)</h3>
+    <br>
+
+    <table border="2" align="center" cellpadding="5">
+        <tr>
+            <td><b>Gazdasagi agazat</b></td>
+            <td><b>A teljes GDP %</b></td>
+        </tr>
+        <tr>
+            <td>Turizmus</td>
+            <td> ~8,1% </td>
+        </tr>
+        <tr>
+            <td>Bank- es penzugyek</td>
+            <td> ~17,6% </td>
+        </tr>
+        <tr>
+            <td>Ingatlanpiac es epitoipar</td>
+            <td> ~15,8% </td>
+        </tr>
+        <tr>
+            <td>Kulonbozo szolgaltatasok</td>
+            <td>~32,1% </td>
+        </tr>
+        <tr>
+            <td>Egyebek (kozlekedes, kereskedelem, stb.)</td>
+            <td> ~26,4% </td>
+        </tr>
+    </table>
+
+</body>
+</html>
